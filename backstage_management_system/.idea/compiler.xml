@@ -6,7 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="backstage_management_system" />
+        <module name="backstage_management_domain" />
+        <module name="backstage_management_web" />
+        <module name="backstage_management_dao" />
+        <module name="backstage_management_utils" />
+        <module name="backstage_management_service" />
       </profile>
     </annotationProcessing>
   </component>

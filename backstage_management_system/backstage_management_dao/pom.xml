@@ -12,4 +12,12 @@
     <artifactId>backstage_management_dao</artifactId>
 
 
+    <dependencies>
+        <!-- 各个模块之间的添加依赖-->
+        <dependency>
+            <groupId>dkz97</groupId>
+            <artifactId>backstage_management_domain</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>
