@@ -11,5 +11,12 @@
 
     <artifactId>backstage_management_domain</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>dkz97</groupId>
+            <artifactId>backstage_management_utils</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 
 </project>

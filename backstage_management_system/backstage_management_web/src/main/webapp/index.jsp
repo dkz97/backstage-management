@@ -5,7 +5,8 @@
 </head>
 <body>
 
-    <a href="product/findAll"><h3>测试</h3></a>
+    <!-- 引导过去别的main.jsp中-->
+    <jsp:forward page="/pages/main.jsp"></jsp:forward>
 
 </body>
 </html>
