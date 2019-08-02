@@ -48,7 +48,6 @@ public class OrdersController {
     public ModelAndView findById(String id){
         ModelAndView mv = new ModelAndView();
         Orders order = ordersService.findById(id);
-        System.out.println(order);
         mv.addObject("orders",order);
         mv.setViewName("orders-show");
         return mv;
