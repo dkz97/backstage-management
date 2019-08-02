@@ -1,6 +1,7 @@
 # backstage-management
 一个基于ssm框架的后台数据管理系统
 
+### 功能介绍
 #### 1 商品查询
 基于SSM整合基础上完成商品查询，要掌握主面页面main.jsp及商品显示页面product-list.jsp页面的创建。
 #### 2 商品添加
