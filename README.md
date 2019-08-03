@@ -1,5 +1,5 @@
 # backstage-management
-一个基于ssm框架的后台数据管理系统
+一个基于ssm框架的后台数据管理系统,主要使用maven管理整个系统(拆分和聚合的思想来对各模块进行拆分),前端主要使用那个AdminLTE框架(github开源)，有些分页的操作就使用pageHelper插件进行分页的更快捷查询。安全，资源权限的模块使用spring-security框架
 
 ### 功能介绍
 #### 1 商品查询
